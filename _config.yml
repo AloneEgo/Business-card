@@ -1,3 +1,3 @@
-theme: time-machine
+remote_theme: pages-themes/tactile@v0.2.0
 title: "Сайт-визитка"
 description: "Задача №3 в модуле изучения Git"
